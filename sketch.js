@@ -34,7 +34,7 @@ function setup() {
   // creating Edge Sprites.
   edges=createEdgeSprites();
   // Creating Iron Not To Cross Top And Not To Go Out of area
-  above = createSprite(40,-100,2000,20);
+  above = createSprite(40,630,2000,20);
   // Defining Groups.
   stoneGroup   = new Group();
   diamondGroup = new Group();
