@@ -20,7 +20,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 500);
+  createCanvas(1000, 600);
   // Creating Bg Sprite.
   bg   = createSprite(300,300,300,300);
   bg.addAnimation("bgAnimation",bgAnimation);
